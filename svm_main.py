@@ -46,8 +46,8 @@ def generateConfusionMatrixFigure(conf_arr, filename):
 	plt.savefig(filename + '.eps', format='eps')
 	plt.savefig(filename + '.png', format='png')
 
-input_file = open("../data/data_clean_imputed.csv","r")
-#input_file = open("../data/pca.csv","r")
+input_file = open("data_clean_imputed.csv","r")
+#input_file = open("pca.csv","r")
 
 lines = input_file.readlines()
 
