@@ -1,4 +1,9 @@
 # DataMiningCourseProject
+Course Data Mining Porject by
+Arunima Shukla
+Sukriti Poddar
+Sanjana Gautam
+
 Instructions to Run:
 1. Clone the repo
 2. Run the .py files of algorithms individually
