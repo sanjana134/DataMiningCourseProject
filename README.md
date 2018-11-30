@@ -1,5 +1,5 @@
 # DataMiningCourseProject
-Course Data Mining Porject by
+Course Data Mining Project by
 Arunima Shukla
 Sukriti Poddar
 Sanjana Gautam
